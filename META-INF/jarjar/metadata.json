@@ -1,0 +1,40 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.fasterxml.jackson.core",
+        "artifact": "jackson-databind"
+      },
+      "version": {
+        "range": "[2.14.2,2.16.0)",
+        "artifactVersion": "2.15.3"
+      },
+      "path": "META-INF/jarjar/jackson-databind-2.15.3.jar",
+      "isObfuscated": false
+    },
+    {
+      "identifier": {
+        "group": "com.fasterxml.jackson.core",
+        "artifact": "jackson-annotations"
+      },
+      "version": {
+        "range": "[2.14.2,2.16.0)",
+        "artifactVersion": "2.15.3"
+      },
+      "path": "META-INF/jarjar/jackson-annotations-2.15.3.jar",
+      "isObfuscated": false
+    },
+    {
+      "identifier": {
+        "group": "com.fasterxml.jackson.core",
+        "artifact": "jackson-core"
+      },
+      "version": {
+        "range": "[2.14.2,2.16.0)",
+        "artifactVersion": "2.15.3"
+      },
+      "path": "META-INF/jarjar/jackson-core-2.15.3.jar",
+      "isObfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Timeless and Classics
+MixinConfigs: tac.mixins.json
+Implementation-Version: 0.3.10.2-1.18.2
+Specification-Vendor: TaC Squad
+Specification-Title: Timeless and Classics
+Implementation-Timestamp: 2023-11-22T03:50:24+0800
+Specification-Version: 0.04
+Implementation-Vendor: TaC Squad
+
